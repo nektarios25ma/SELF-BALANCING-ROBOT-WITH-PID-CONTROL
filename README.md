@@ -30,3 +30,15 @@ link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/compone
  and https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/buttons/black-rocker-switch-6a-250v-on-off-spst-kcd1-101/
  Καλώδια= 3,92 €
  link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/40pcs-male-to-male-dupont-wires-cables-for-arduino-m-m/
+ Ρόδες
+ link:
+ https://grobotronics.com/rubber-wheel-66x26mm-blue-hex.html
+ https://grobotronics.com/12mm-hex-mounting-hub-3mm-shaft.html
+ https://grobotronics.com/12mm-hex-mounting-hub-4mm-shaft.html
+ https://grobotronics.com/12mm-hex-mounting-hub-5mm-shaft.html
+ https://grobotronics.com/12mm-hex-mounting-hub-6mm-shaft.html
+ 
+ 
+ 
+ 
+ 
