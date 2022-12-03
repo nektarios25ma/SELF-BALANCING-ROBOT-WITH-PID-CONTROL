@@ -30,15 +30,27 @@ link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/compone
  and https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/buttons/black-rocker-switch-6a-250v-on-off-spst-kcd1-101/
  Καλώδια= 3,92 €
  link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/40pcs-male-to-male-dupont-wires-cables-for-arduino-m-m/
- Ρόδες
+ Ρόδες=€22,52
  link:
- https://grobotronics.com/rubber-wheel-66x26mm-blue-hex.html
- https://grobotronics.com/12mm-hex-mounting-hub-3mm-shaft.html
- https://grobotronics.com/12mm-hex-mounting-hub-4mm-shaft.html
- https://grobotronics.com/12mm-hex-mounting-hub-5mm-shaft.html
- https://grobotronics.com/12mm-hex-mounting-hub-6mm-shaft.html
+ https://www.hellasdigital.gr/electronics/motors-and-drivers/wheels/d65mm-rubber-wheel-pair-blue-without-shaft-fit0199-b/
  
- 
+ https://grobotronics.com/rubber-wheel-66x26mm-blue-hex.html Χ2
+ https://grobotronics.com/12mm-hex-mounting-hub-3mm-shaft.html Χ2
+ https://grobotronics.com/12mm-hex-mounting-hub-4mm-shaft.html Χ2
+ https://grobotronics.com/12mm-hex-mounting-hub-5mm-shaft.html Χ2
+ https://grobotronics.com/12mm-hex-mounting-hub-6mm-shaft.html Χ2
+ΜΙΚΡΟΕΛΕΓΚΤΗΣ Arduino mega CLONE+WIFI CONTROL ESP= €21.01+€9.90=30,91€
+NodeMCU - Lua based ESP8266 LINK: https://grobotronics.com/nodemcu-lua-based-esp8266.html 
+Arduino mega clone, Link: https://www.cableworks.gr/ilektronika/arduino/boards/compatible-boards/arduino-mega2560-r3-atmega2560-16au-board-with-atmega16u2-usb-cable-oem/
+ΒΙΔΕΣ ΚΑΙ ΠΑΞΙΜΑΔΙΑ=€9,98 
+LINK: https://www.hellasdigital.gr/electronics/prototyping/brass-buttons/120pcs-m3-male-female-brass-standoff-spacer-assortment-for-pcb/
+ΜΠΑΤΑΡΙΕΣ 18650Χ3=25,86€
+Link: https://www.hellasdigital.gr/electronics/prototyping/brass-buttons/120pcs-m3-male-female-brass-standoff-spacer-assortment-for-pcb/
+motor driver=€7,58+€5,10=12,68€
+https://www.hellasdigital.gr/electronics/motors-and-drivers/drivers/sparkfun-motor-driver-dual-tb6612fng-with-headers-rob-14450/
+and https://www.hellasdigital.gr/electronics/motors-and-drivers/drivers/stepper-driver-board-module-l298n-dual-h-bridge-for-arduino/
+Σύνολο: 225€
+
  
  
  
