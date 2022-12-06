@@ -21,7 +21,7 @@ Link: https://www.cableworks.gr/ilektronika/batteries/cases/plastic-battery-hold
 DC-DC Constant Voltage and current Step-down Power Supply Χ2 =22,42€
 link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/buck-and-boost-converters/buck-converter-step-down-dc-dc/lm2596-buck-step-down-converter-module-dc-4.040-to-1.3-37v-with-led-voltmeter/
 Car Chassis
-Link : https://www.cableworks.gr/ilektronika/kit/robot-car-kit/4wd-2-layer-60mm-mecanum-wheel-robot-car-chassis-kit/  =€33.59
+Link : https://www.hellasdigital.gr/go-create/robotics/car-robot/2-layer-60mm-mecanum-wheel-robot-car-chassis-kit/  =€32,24
 και https://grobotronics.com/top-metal-plate-for-a-mini-robot-rover-chassis.html  Χ2=7,8€
 Accelerometer sensor =€5.37
 Link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-components/tilt/mpu-6050-3-axis-gyroscope-accelerometer-module-for-arduino-gy-521/
