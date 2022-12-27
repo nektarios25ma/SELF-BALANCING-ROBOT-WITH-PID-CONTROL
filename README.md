@@ -25,6 +25,10 @@ Link : https://www.hellasdigital.gr/go-create/robotics/car-robot/2-layer-60mm-me
 και https://grobotronics.com/top-metal-plate-for-a-mini-robot-rover-chassis.html  Χ2=7,8€
 Accelerometer sensor =€5.37
 Link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-components/tilt/mpu-6050-3-axis-gyroscope-accelerometer-module-for-arduino-gy-521/
+
+https://www.cableworks.gr/?match=all&subcats=Y&pcode_from_q=Y&pshort=Y&pfull=Y&pname=Y&pkeywords=Y&search_performed=Y&q=1140.347&dispatch=products.search&security_hash=14a018e2ac6d5cbacf9d52d107616d6a
+
+
 Διακόπτες= 2€
 link: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/dip-switch/black-rocker-switch-6a-250v-on-off/
  and https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/buttons/black-rocker-switch-6a-250v-on-off-spst-kcd1-101/
