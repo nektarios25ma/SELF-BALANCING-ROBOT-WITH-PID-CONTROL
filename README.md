@@ -1,4 +1,6 @@
 # SELF-BALANCING-ROBOT-WITH-PID-CONTROL
+ΔΕΝ ΟΛΟΚΛΗΡΩΘΗΚΕ ΦΕΤΟΣ
+
 SELF BALANCING ROBOT WITH PID CONTROL
 
 Ο έλεγχος μη γραμμικών συστημάτων όπως  DC motors μέσω PID (Proportional, Integral, Derivative)Αλγόριθμου είναι μια διαδεδομένη βιομηχανική μέθοδος που μεταξύ άλλων εξοικονομεί ενέργεια και παρέχει ακρίβεια στο έλεγχο συστημάτων. 
